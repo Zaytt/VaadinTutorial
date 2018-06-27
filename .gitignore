@@ -2,5 +2,6 @@
 *.iml
 target/
 out/
+.designer/
 .DS_Store
 
